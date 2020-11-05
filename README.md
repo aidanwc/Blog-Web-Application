@@ -1,2 +1,2 @@
 # Blog-Web-Application
-Blogging web application creating using the XAMMP stack 
+A Blogging web application created using the XAMMP stack.  
